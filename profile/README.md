@@ -2,7 +2,7 @@
 
 We connect business systems, keep their code healthy, and share the tools we build along the way.
 
-[byterive.com](https://byterive.com) · [Book a 30-minute script review](https://calendly.com/byterive?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=byterive)
+[byterive.com](https://byterive.com) · [Book a 30-minute script review](https://calendly.com/byterive/30min?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=byterive)
 
 ## What we work on
 
@@ -40,7 +40,7 @@ Each repository has its own README, privacy page and licence (MIT).
 ## Contact
 
 - Site: [byterive.com](https://byterive.com)
-- Book a call: [calendly.com/byterive](https://calendly.com/byterive?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=byterive)
+- Book a call: [calendly.com/byterive/30min](https://calendly.com/byterive/30min?utm_source=github&utm_medium=profile&utm_campaign=evergreen&utm_content=byterive)
 - Write to us: [contact form](https://tally.so/r/e559ox)
 
 Oracle and NetSuite are registered trademarks of Oracle and/or its affiliates. Celigo, Boomi and Unity are trademarks of their owners. We are not affiliated with them.
